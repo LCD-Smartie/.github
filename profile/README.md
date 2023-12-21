@@ -13,4 +13,4 @@ The latest release of LCD Smartie can be found under the following link:
 https://github.com/LCD-Smartie/LCDSmartie/releases
 
 Thank you for using LCD Smartie!
-Now go to our [main repo](https://github.com/LCD-Smartie/LCDSmartie) to find more about the latest LCD Smartie 
+Now go to our [main repo](https://github.com/LCD-Smartie/LCDSmartie#lcd-smartie) to find more about the latest LCD Smartie 
